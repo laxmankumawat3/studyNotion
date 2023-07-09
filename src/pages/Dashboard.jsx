@@ -13,7 +13,7 @@ function Dashboard() {
         <div className="spinner"></div>
       </div>
     )
-  }s
+  }
 
   return (
     <div className="relative flex min-h-[calc(100vh-3.5rem)]">
